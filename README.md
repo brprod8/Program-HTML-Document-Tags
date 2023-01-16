@@ -1,9 +1,9 @@
-![](pic/UATspaceLogo-1.jpeg)
+![](Program-HTML-Document-Tags-main/pic/UATspaceLogo-1.jpeg)
 
 The objectives of this task are to understand and code a working HTML page, understand the requirements, translate the requirements into an HTML page, and use HTML 5.0 tags. The guidelines and expectations are to use the image provided and code the following: Doctype, HTML tags, Head tags, Title tags, Title text, Body tags, Header tags, Header text, Paragraph tags, and add an alert (any kind of your choice).
 
 
-![](pic/work.png)
+![](Program-HTML-Document-Tags-main/pic/work.png)
 
 
 # REQUIREMENTS
